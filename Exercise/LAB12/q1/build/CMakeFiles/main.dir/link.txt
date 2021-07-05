@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/stock02.cpp.o CMakeFiles/main.dir/usestock02.cpp.o  -o main 

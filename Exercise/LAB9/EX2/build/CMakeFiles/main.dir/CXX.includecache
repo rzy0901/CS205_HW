@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/students_home/11812214/Exercise/LAB9/EX2/main.cpp
+sales.h
+/home/students_home/11812214/Exercise/LAB9/EX2/sales.h
+
+/home/students_home/11812214/Exercise/LAB9/EX2/sales.cpp
+iostream
+-
+sales.h
+/home/students_home/11812214/Exercise/LAB9/EX2/sales.h
+
+/home/students_home/11812214/Exercise/LAB9/EX2/sales.h
+

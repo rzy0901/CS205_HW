@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/demo.dir/using_utf8_to_codepoint.c.o CMakeFiles/demo.dir/utf8.c.o  -o demo 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/students_home/11812214/HW/HW3/q3/utf8.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+utf8.h
+/home/students_home/11812214/HW/HW3/q3/utf8.h
+
+/home/students_home/11812214/HW/HW3/q3/utf8.h
+

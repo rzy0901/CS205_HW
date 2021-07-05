@@ -1,0 +1,3 @@
+/home/students_home/11812214/HW/HW3/demo/build/CMakeFiles/rebuild_cache.dir
+/home/students_home/11812214/HW/HW3/demo/build/CMakeFiles/demo.dir
+/home/students_home/11812214/HW/HW3/demo/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+add_executable(main stock02.cpp usestock02.cpp)

@@ -1,0 +1,3 @@
+/home/students_home/11812214/LAB8/TEST2/CMakeFiles/rebuild_cache.dir
+/home/students_home/11812214/LAB8/TEST2/CMakeFiles/main.dir
+/home/students_home/11812214/LAB8/TEST2/CMakeFiles/edit_cache.dir

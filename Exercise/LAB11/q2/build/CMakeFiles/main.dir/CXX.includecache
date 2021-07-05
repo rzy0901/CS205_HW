@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/students_home/11812214/Exercise/LAB11/q2/main.cpp
+iostream
+-
+number.h
+/home/students_home/11812214/Exercise/LAB11/q2/number.h
+
+/home/students_home/11812214/Exercise/LAB11/q2/number.cpp
+number.h
+/home/students_home/11812214/Exercise/LAB11/q2/number.h
+iostream
+-
+
+/home/students_home/11812214/Exercise/LAB11/q2/number.h
+iostream
+-
+

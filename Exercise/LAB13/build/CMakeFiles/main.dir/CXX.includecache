@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/students_home/11812214/Exercise/LAB13/CCube.cpp
+iostream
+-
+CCube.h
+/home/students_home/11812214/Exercise/LAB13/CCube.h
+
+/home/students_home/11812214/Exercise/LAB13/CCube.h
+shape.h
+/home/students_home/11812214/Exercise/LAB13/shape.h
+
+/home/students_home/11812214/Exercise/LAB13/CSphere.cpp
+iostream
+-
+cmath
+-
+CSphere.h
+/home/students_home/11812214/Exercise/LAB13/CSphere.h
+
+/home/students_home/11812214/Exercise/LAB13/CSphere.h
+shape.h
+/home/students_home/11812214/Exercise/LAB13/shape.h
+
+/home/students_home/11812214/Exercise/LAB13/main.cpp
+shape.h
+/home/students_home/11812214/Exercise/LAB13/shape.h
+CSphere.h
+/home/students_home/11812214/Exercise/LAB13/CSphere.h
+CCube.h
+/home/students_home/11812214/Exercise/LAB13/CCube.h
+iostream
+-
+
+/home/students_home/11812214/Exercise/LAB13/shape.cpp
+shape.h
+/home/students_home/11812214/Exercise/LAB13/shape.h
+
+/home/students_home/11812214/Exercise/LAB13/shape.h
+

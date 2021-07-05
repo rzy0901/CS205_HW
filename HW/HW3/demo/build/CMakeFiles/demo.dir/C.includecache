@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/students_home/11812214/HW/HW3/demo/using_utf8_to_codepoint.c
+stdio.h
+-
+utf8.h
+/home/students_home/11812214/HW/HW3/demo/utf8.h
+
+/home/students_home/11812214/HW/HW3/demo/utf8.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+utf8.h
+/home/students_home/11812214/HW/HW3/demo/utf8.h
+
+/home/students_home/11812214/HW/HW3/demo/utf8.h
+
