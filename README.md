@@ -8,3 +8,5 @@ My solutions to SUSTECH CS205. (C/C++ programming.)
   | Commits. | null  | null  | null  | **bad report**. |
 
 + Exercise final score: `86.7` (Two absences.)
+
++ MID score: `90`.
