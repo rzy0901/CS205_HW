@@ -1,5 +1,5 @@
 # CS205HW
-My solutions to SUSTECH CS205. (C/C++ programming.)
+My solutions to SUSTECH CS205. (C/C++ programming.) :memo:
 + HW final score:
 
   |          | LAB 1 | LAB 2 | LAB 3 | LAB 4           |
